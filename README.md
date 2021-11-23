@@ -1,3 +1,4 @@
 # Achraf's Notes
 ## Summary 
-This repository contains all of the notes taken by Achraf for the LHL web developement Bootcamp
+This repository contains all of the notes taken by [Achraf](https://github.com/awsaya/lighthouse-web-notes/blob/master/README.md) for the [LHL](https://www.lighthouselabs.ca/) web developement Bootcamp.
+
